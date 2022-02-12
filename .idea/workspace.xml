@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d30c800d-fcf5-4979-9be9-e4b965dd6383" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vQYte6a5DLwvkdVO73ZLCGzLJC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.york.easywrite.config" />
+      <recent name="com.york.easywrite.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\easy\parent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MqDemoApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyReadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="easy-read" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.york.easy.easyread.EasyReadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasywriteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="easywrite" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.york.easywrite.EasywriteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.york.easy.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.york.easy.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mq-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.york.mqdemo.MqDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisYorkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-york" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.york.redisyork.RedisYorkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.EasywriteApplication" />
+      <item itemvalue="Spring Boot.EasyReadApplication" />
+      <item itemvalue="Spring Boot.MqDemoApplication" />
+      <item itemvalue="Spring Boot.RedisYorkApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21428572" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30c800d-fcf5-4979-9be9-e4b965dd6383" name="Default" comment="" />
+      <created>1625969555714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625969555714</updated>
+      <workItem from="1625969557027" duration="1518000" />
+      <workItem from="1625971107459" duration="3326000" />
+      <workItem from="1626495997547" duration="7702000" />
+      <workItem from="1626576855358" duration="10745000" />
+      <workItem from="1626787384877" duration="3195000" />
+      <workItem from="1631328974939" duration="2601000" />
+      <workItem from="1632402565192" duration="705000" />
+      <workItem from="1638087030283" duration="57000" />
+      <workItem from="1638087118827" duration="274000" />
+      <workItem from="1638606170457" duration="1370000" />
+      <workItem from="1642227126956" duration="23000" />
+      <workItem from="1644631259101" duration="1629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1644632357909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644632357909" />
+    <state width="1451" height="277" key="GridCell.Tab.0.bottom" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.0.center" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.0.left" timestamp="1644632311551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311551" />
+    <state width="1451" height="277" key="GridCell.Tab.0.right" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.1.bottom" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.1.center" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.1.left" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.1.right" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.2.bottom" timestamp="1644632311553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311553" />
+    <state width="1451" height="277" key="GridCell.Tab.2.center" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.2.left" timestamp="1644632311552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311552" />
+    <state width="1451" height="277" key="GridCell.Tab.2.right" timestamp="1644632311553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1451" height="277" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644632311553" />
+    <state x="334" y="221" key="new project wizard" timestamp="1644632482898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1644632482898" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+server:
+  port: 8083
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:9090/eureka
+  instance:
+    hostname: localhost
+
+spring:
+  rabbitmq:
+    host: 192.168.52.128
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host: /
+    publisher-confirm-type: simple
