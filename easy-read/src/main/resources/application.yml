@@ -11,3 +11,8 @@ eureka:
 spring:
   application:
     name: easy-read
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: 123456
+    jdbc-url: jdbc:mysql://127.0.0.1:3306/test?characterEncoding=utf-8
